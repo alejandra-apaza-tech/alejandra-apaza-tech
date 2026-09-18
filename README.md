@@ -36,8 +36,8 @@ Minha trajetória em tecnologia começou fora da sala de aula — no dia a dia d
 ### 📊 GitHub Stats
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=alejandra-apaza-tech&show_icons=true&count_private=true&theme=tokyonight&hide_border=true&title_color=a855f7&icon_color=a855f7" alt="GitHub stats" height="165"/>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=alejandra-apaza-tech&layout=compact&theme=tokyonight&hide_border=true&title_color=a855f7" alt="Top Languages" height="165"/>
+  <img src="https://github-readme-stats-alejandra-56cb.vercel.app/api?username=alejandra-apaza-tech&show_icons=true&theme=tokyonight&hide_border=true&title_color=a855f7&icon_color=a855f7" alt="GitHub stats" height="165"/>
+  <img src="https://github-readme-stats-alejandra-56cb.vercel.app/api/top-langs/?username=alejandra-apaza-tech&layout=compact&theme=tokyonight&hide_border=true&title_color=a855f7" alt="Top Languages" height="165"/>
 </p>
 
 ---
