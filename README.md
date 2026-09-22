@@ -1,8 +1,8 @@
- <p align="center"><img src="banner_ale_svg" alt="Nicole Alejandra" width="100%" /></p>
+<p align="center"><img src="banner_ale.svg" alt="Nicole Alejandra" width="100%" /></p>
 
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=18&pause=1000&color=A855F7&center=true&vCenter=true&width=600&lines=Turning+data+into+decisions;Learning+Information+Security;Python+%7C+Power+BI+%7C+Figma%2FUX;Bilingual+PT+%2F+ES+%F0%9F%87%A7%F0%9F%87%B7%F0%9F%87%AA%F0%9F%87%B8" alt="Typing SVG" />
-</p
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=18&pause=1000&color=A855F7&center=true&vCenter=true&width=600&lines=Transformando+dados+em+decis%C3%B5es;Aprendendo+Seguran%C3%A7a+da+Informa%C3%A7%C3%A3o;Python+%7C+Power+BI+%7C+Figma%2FUX;Bil%C3%ADngue+PT+%2F+ES+%F0%9F%87%A7%F0%9F%87%B7%F0%9F%87%AA%F0%9F%87%B8" alt="Typing SVG" />
+</p>
 
 <p align="center">
   <a href="https://www.linkedin.com/in/nicole-alejandra-8948ab3b4/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-0077B5?style=flat&logo=linkedin&logoColor=white" /></a>
