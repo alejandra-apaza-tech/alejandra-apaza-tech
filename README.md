@@ -1,4 +1,4 @@
-<p align="center"><img src="banner_name_v2.svg" alt="Nicole Alejandra" width="100%" /></p>
+ <p align="center"><img src="banner_ale.svg" alt="Nicole Alejandra" width="100%" /></p>
 
 <p align="center">
   <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=18&pause=1000&color=A855F7&center=true&vCenter=true&width=600&lines=Transformando+dados+em+decis%C3%B5es;Aprendendo+Seguran%C3%A7a+da+Informa%C3%A7%C3%A3o;Python+%7C+Power+BI+%7C+Figma%2FUX;Bil%C3%ADngue+PT+%2F+ES+%F0%9F%87%A7%F0%9F%87%B7%F0%9F%87%AA%F0%9F%87%B8" alt="Typing SVG" />
