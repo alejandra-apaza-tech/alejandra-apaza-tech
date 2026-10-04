@@ -153,7 +153,8 @@ sistema:
 <a href="https://www.instagram.com/alejandrabel.lexie/"><img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white"/></a>
 <a href="https://dev.to/alejandra_dev"><img src="https://img.shields.io/badge/DEV.to-0A0A0A?style=for-the-badge&logo=devdotto&logoColor=white"/></a>
 <a href="https://twitter.com/alejandradevbel"><img src="https://img.shields.io/badge/X-000000?style=for-the-badge&logo=x&logoColor=white"/></a>
-<img src="https://discord.com/users/alejandra_apaza"/>
+<a href="https://discord.com/users/alejandra_apaza"><img src="https://img.shields.io/badge/Discord-alejandra__dev-5865F2?style=for-the-badge&logo=discord&logoColor=white"/>
+
 
 <br/><br/>
 
