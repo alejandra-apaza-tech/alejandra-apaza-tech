@@ -1,64 +1,168 @@
 <p align="center"><img src="banner_ale_en.svg" alt="Nicole Alejandra" width="100%" /></p>
 
-<p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=18&pause=1000&color=A855F7&center=true&vCenter=true&width=600&lines=Transformando+dados+em+decis%C3%B5es;Aprendendo+Seguran%C3%A7a+da+Informa%C3%A7%C3%A3o;Python+%7C+Power+BI+%7C+Figma%2FUX;Bil%C3%ADngue+PT+%2F+ES+%F0%9F%87%A7%F0%9F%87%B7%F0%9F%87%AA%F0%9F%87%B8" alt="Typing SVG" />
-</p>
+<div align="center">
 
-<p align="center">
-  <a href="https://www.linkedin.com/in/nicole-alejandra-8948ab3b4/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-0077B5?style=flat&logo=linkedin&logoColor=white" /></a>
-  <a href="mailto:alejandrabel319@gmail.com"><img src="https://img.shields.io/badge/-Gmail-D14836?style=flat&logo=gmail&logoColor=white" /></a>
-  <a href="https://github.com/alejandra-apaza-tech" target="_blank"><img src="https://img.shields.io/badge/-GitHub-181717?style=flat&logo=github&logoColor=white" /></a>
-</p>
+<br/>
 
----
+<a href="https://github.com/alejandra-apaza-tech">
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=20&duration=2500&pause=1000&color=00F5FF&center=true&vCenter=true&width=850&height=50&lines=%3E+ACESSO+CONCEDIDO+-+BEM-VINDA%21;%3E+INICIALIZANDO+SISTEMA+...;%3E+Estudante+de+Engenharia+de+Software;%3E+FOCO%3A+CIBERSEGURAN%C3%87A+%26+DEFESA+DE+DADOS;%3E+Python+%7C+Java+%7C+SQL+%7C+Front-end+%7C+Figma%2FUX" alt="Typing SVG" />
+</a>
 
-### 🚀 Sobre mim
+<br/>
 
-Minha trajetória em tecnologia começou fora da sala de aula — no dia a dia do atendimento ao cliente e das vendas. Foi ali, resolvendo problemas com agilidade e organização mesmo sob pressão, que descobri o que hoje mais me move: **o cuidado com a informação**.
+```ini
+[ SYSTEM BOOT SEQUENCE INITIATED ]
+> Carregando módulo: IDENTIDADE ............ OK
+> Carregando módulo: CIBERSEGURANÇA ........ OK
+> Carregando módulo: DADOS & BANCO ......... OK
+> Carregando módulo: FRONT-END ............. OK
+> Verificando integridade do sistema ....... 100%
+> STATUS: IN TRAINING
+> Acesso concedido. Bem-vinda, visitante.
+```
 
-- 🔐 Interesse em **Segurança da Informação** e **proteção de dados**
-- 📊 Estudando **Modelagem de Dados**, **BI** e **Analytics**
-- 🎨 Também exploro **Prototipagem de Sistemas (Figma/UX)**
-- 🌱 Sempre aprendendo — Python, lógica de programação e desenvolvimento frontend
-- 🗣️ Bilíngue: **Espanhol (nativo)** e **Português** | Inglês intermediário
+</div>
 
----
+<br/>
 
-### 🛠️ Tecnologias & Ferramentas
+## 👋 Pequena apresentação
 
-<p align="left">
-  <img src="https://skillicons.dev/icons?i=python,html,css,figma,git,github" />
-</p>
+Olá! Sou **Nicole Alejandra**, estudante de Engenharia de Software com foco em **Cibersegurança e Defesa de Dados**. Tenho interesse em desenvolvimento de software, segurança da informação, banco de dados e experiências digitais centradas no usuário. Estou em constante evolução, transformando desafios em aprendizado e buscando criar soluções seguras, eficientes e inovadoras. Atualmente, aprofundo meus conhecimentos em Python, Java, SQL, desenvolvimento web e proteção de sistemas, construindo uma base sólida para atuar no universo da tecnologia.
 
----
+**Frase de destaque:**
 
-### 📊 Estatísticas do GitHub
+> 🔐 *"Proteger dados hoje é construir confiança para o futuro."*
 
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=alejandra-apaza-tech&show_icons=true&theme=tokyonight&hide_border=true" alt="GitHub stats" height="165"/>
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=alejandra-apaza-tech&theme=tokyonight&hide_border=true" alt="GitHub streak" height="165"/>
-</p>
+<br/>
 
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=alejandra-apaza-tech&layout=compact&theme=tokyonight&hide_border=true" alt="Top Languages" />
-</p>
+## 🧠 Sobre Mim
 
----
-### 🐍 Minha atividade
+<table align="center">
+<tr>
+<td>
 
-<p align="center">
-  <picture>
-    <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/alejandra-apaza-tech/alejandra-apaza-tech/output/github-contribution-grid-snake-dark.svg">
-    <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/alejandra-apaza-tech/alejandra-apaza-tech/output/github-contribution-grid-snake.svg">
-    <img alt="cobrinha comendo o gráfico de contribuições" src="https://raw.githubusercontent.com/alejandra-apaza-tech/alejandra-apaza-tech/output/github-contribution-grid-snake.svg">
-  </picture>
-</p>
+```yaml
+sistema:
+  usuario: Nicole Alejandra
+  funcao_atual: Estudante de Engenharia de Software
+  foco_principal: Cibersegurança & Defesa de Dados
+  estudando_agora:
+    - Desenvolvimento Front-end Web
+    - Banco de Dados
+    - Prototipagem (Figma/UX)
+    - Cibersegurança
+  disciplinas_concluidas:
+    - Python
+    - Banco de Dados
+    - Algoritmos
+    - Prototipagem de Sistemas
+  idiomas: [Espanhol, Português (BR), Inglês (intermediário)]
+  modo: Dark Mode :: Always
+```
 
----
+</td>
+</tr>
+</table>
 
-### 📌 Projetos em destaque
+<br/>
 
-- 🔎 **[projeto_IA](https://github.com/alejandra-apaza-tech/projeto_IA)** — Projeto voltado para Inteligência Artificial
-- 🐾 **[clinica-mundo-pet](https://github.com/alejandra-apaza-tech/clinica-mundo-pet)** — Site real para clínica veterinária, com páginas de serviços e contato
+## 🚀 Projeto em Destaque
 
-<p align="center"><i>"Quero continuar aprendendo, me adaptando e usando dados e sistemas para organizar e proteger informações."</i></p>
+<div align="center">
+
+| Projeto | Descrição | Tecnologias | Link |
+| :-- | :-- | :-- | :-- |
+| 🐾 **Clínica Mundo Pet** | Site para clínica veterinária, com páginas de serviços e contato | HTML · CSS · JS | [Ver repositório](https://github.com/alejandra-apaza-tech/clinica-mundo-pet) |
+
+</div>
+
+<br/>
+
+## ⚙️ Tech Stack
+
+<div align="center">
+
+**Linguagens que utilizo**
+<br/>
+<img src="https://skillicons.dev/icons?i=python,java,js,ts,cpp,go&theme=dark"/>
+
+<br/><br/>
+
+**Frontend**
+<br/>
+<img src="https://skillicons.dev/icons?i=react,vue,nextjs,html,css,tailwind&theme=dark"/>
+
+<br/><br/>
+
+**Backend**
+<br/>
+<img src="https://skillicons.dev/icons?i=nodejs,express,django,flask,fastapi,spring&theme=dark"/>
+
+<br/><br/>
+
+**Banco de Dados**
+<br/>
+<img src="https://skillicons.dev/icons?i=mysql,postgres,mongodb,redis,sqlite&theme=dark"/>
+
+<br/><br/>
+
+**DevOps & Cloud**
+<br/>
+<img src="https://skillicons.dev/icons?i=docker,kubernetes,aws,gcp,azure,githubactions&theme=dark"/>
+
+</div>
+
+<br/>
+
+## 🛠️ Ferramentas que utilizo
+
+<div align="center">
+<img src="https://skillicons.dev/icons?i=vscode,figma,git,github,postman,linux,vim,notion&theme=dark"/>
+<br/>
+<img src="https://img.shields.io/badge/Canva-00C4CC?style=for-the-badge&logo=canva&logoColor=white"/>
+<img src="https://img.shields.io/badge/Power_BI-F2C811?style=for-the-badge&logo=powerbi&logoColor=black"/>
+</div>
+
+<br/>
+
+## 🌱 Em desenvolvimento
+
+<div align="center">
+<img src="https://skillicons.dev/icons?i=cs,php&theme=dark"/>
+<br/>
+<sub>C# · PHP · e outras que virão...</sub>
+</div>
+
+<br/>
+
+## 🐍 Snake Contribution
+
+<div align="center">
+<img src="https://raw.githubusercontent.com/alejandra-apaza-tech/alejandra-apaza-tech/output/snake-neon.svg" width="100%"/>
+</div>
+
+<br/>
+
+## 🌐 Onde me encontrar
+
+<div align="center">
+
+<a href="https://www.linkedin.com/in/nicole-alejandra-8948ab3b4"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/></a>
+<a href="https://mail.google.com/mail/?view=cm&to=alejandraapaza3020@gmail.com"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white"/></a>
+<a href="https://wa.me/5511960539146?text=Olá%20Alejandra!%20Vi%20seu%20perfil%20e%20gostaria%20de%20entrar%20em%20contato."><img src="https://img.shields.io/badge/WhatsApp-25D366?style=for-the-badge&logo=whatsapp&logoColor=white"/></a>
+<a href="https://www.instagram.com/alejandrabel.lexie/"><img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white"/></a>
+<a href="https://dev.to/alejandra_dev"><img src="https://img.shields.io/badge/DEV.to-0A0A0A?style=for-the-badge&logo=devdotto&logoColor=white"/></a>
+<a href="https://twitter.com/alejandradevbel"><img src="https://img.shields.io/badge/X-000000?style=for-the-badge&logo=x&logoColor=white"/></a>
+<img src="https://img.shields.io/badge/Discord-alejandra__dev-5865F2?style=for-the-badge&logo=discord&logoColor=white"/>
+
+<br/><br/>
+
+```ini
+[ SYSTEM SHUTDOWN ]
+> Encerrando sessão...
+> Obrigada pela visita. Até a próxima conexão.
+```
+
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:00F5FF,50:7C3AED,100:0D1117&height=120&section=footer" width="100%"/>
+
+</div>
