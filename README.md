@@ -144,7 +144,6 @@ sistema:
 
 <a href="https://www.linkedin.com/in/nicole-alejandra-8948ab3b4"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/></a>
 <a href="https://mail.google.com/mail/?view=cm&to=alejandraapaza3020@gmail.com"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white"/></a>
-<a href="https://wa.me/5511960539146?text=Olá%20Alejandra!%20Vi%20seu%20perfil%20e%20gostaria%20de%20entrar%20em%20contato."><img src="https://img.shields.io/badge/WhatsApp-25D366?style=for-the-badge&logo=whatsapp&logoColor=white"/></a>
 <a href="https://www.instagram.com/alejandrabel.lexie/"><img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white"/></a>
 <a href="https://dev.to/alejandra_dev"><img src="https://img.shields.io/badge/DEV.to-0A0A0A?style=for-the-badge&logo=devdotto&logoColor=white"/></a>
 <a href="https://twitter.com/alejandradevbel"><img src="https://img.shields.io/badge/X-000000?style=for-the-badge&logo=x&logoColor=white"/></a>
