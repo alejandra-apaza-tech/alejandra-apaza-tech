@@ -1,7 +1,7 @@
 <p align="center"><img src="banner_ale_en.svg" alt="Nicole Alejandra" width="100%" /></p>
 
 <div align="center">
-
+  
 <br/>
 
 <a href="https://github.com/alejandra-apaza-tech">
