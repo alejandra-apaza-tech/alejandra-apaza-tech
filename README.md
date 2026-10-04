@@ -56,6 +56,9 @@ sistema:
     - Banco de Dados
     - Algoritmos
     - Prototipagem de Sistemas
+    - Power BI
+    - Soluções Tecnólogicas Emergentes
+    - Marketing Digital
   idiomas: [Espanhol, Português (BR), Inglês (intermediário)]
   modo: Dark Mode :: Always
 ```
@@ -131,14 +134,6 @@ sistema:
 <img src="https://skillicons.dev/icons?i=cs,php&theme=dark"/>
 <br/>
 <sub>C# · PHP · e outras que virão...</sub>
-</div>
-
-<br/>
-
-## 🐍 Snake Contribution
-
-<div align="center">
-<img src="https://raw.githubusercontent.com/alejandra-apaza-tech/alejandra-apaza-tech/output/snake-neon.svg" width="100%"/>
 </div>
 
 <br/>
