@@ -81,62 +81,6 @@ sistema:
 
 <br/>
 
-## ⚙️ Tech Stack
-
-<div align="center">
-
-**Linguagens que utilizo**
-<br/>
-<img src="https://skillicons.dev/icons?i=python,java,js,ts,cpp,go&theme=dark"/>
-
-<br/><br/>
-
-**Frontend**
-<br/>
-<img src="https://skillicons.dev/icons?i=react,vue,nextjs,html,css,tailwind&theme=dark"/>
-
-<br/><br/>
-
-**Backend**
-<br/>
-<img src="https://skillicons.dev/icons?i=nodejs,express,django,flask,fastapi,spring&theme=dark"/>
-
-<br/><br/>
-
-**Banco de Dados**
-<br/>
-<img src="https://skillicons.dev/icons?i=mysql,postgres,mongodb,redis,sqlite&theme=dark"/>
-
-<br/><br/>
-
-**DevOps & Cloud**
-<br/>
-<img src="https://skillicons.dev/icons?i=docker,kubernetes,aws,gcp,azure,githubactions&theme=dark"/>
-
-</div>
-
-<br/>
-
-## 🛠️ Ferramentas que utilizo
-
-<div align="center">
-<img src="https://skillicons.dev/icons?i=vscode,figma,git,github,postman,linux,vim,notion&theme=dark"/>
-<br/>
-<img src="https://img.shields.io/badge/Canva-00C4CC?style=for-the-badge&logo=canva&logoColor=white"/>
-<img src="https://img.shields.io/badge/Power_BI-F2C811?style=for-the-badge&logo=powerbi&logoColor=black"/>
-</div>
-
-<br/>
-
-## 🌱 Em desenvolvimento
-
-<div align="center">
-<img src="https://skillicons.dev/icons?i=cs,php&theme=dark"/>
-<br/>
-<sub>C# · PHP · e outras que virão...</sub>
-</div>
-
-<br/>
 
 ## 🌐 Onde me encontrar
 
